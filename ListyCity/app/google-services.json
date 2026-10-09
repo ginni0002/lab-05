@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824552469214",
+    "project_id": "lab05-khushhar",
+    "storage_bucket": "lab05-khushhar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824552469214:android:39674c8cf9086552d7884f",
+        "android_client_info": {
+          "package_name": "com.example.listycity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UZguGgElfvoeedS1SHAMvYR3DW5WFDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
